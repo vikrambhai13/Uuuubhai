@@ -1,0 +1,301 @@
+THIS ALL CARDS ARE APPROVED BY 4 PAYMENT GATEWAYS HIGH HIT POSSIBLE 
+USE ON CLOUDWAYS, YOUTUBE, AND FREE TRIAL APPLICATIONS
+
+THIS IS MADE BY @GSM_TEAMV1 ON TELEGRAM 🩵
+
+CC: 5250870196650206|02|2026|853
+Status: Approved ✅
+Response: Card added
+Gateway: Braintree Auth - 1
+Bank: UC CARD CO., LTD.
+Category: RETAIL
+Type: CREDIT 
+Country: JAPAN - 392
+Took: 11.2s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 5243471033580381|03|2025|439
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: AKBANK T.A.S.
+Category: RETAIL
+Type: CREDIT WORLD
+Country: TURKEY - 792
+Took: 8.10s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4115680265564800|03|2025|606
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: CHOICE FINANCIAL GROUP
+Category: RETAIL
+Type: DEBIT CLASSIC
+Country: UNITEDSTATES - 840
+Took: 7.61s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4169941376116012|03|2025|673
+Status: Approved ✅
+Response: AVS Error (Your postal code did not match.)
+Gateway: Braintree Auth - 1
+Bank: PATHWARD, N.A.
+Category: RETAIL
+Type: PREPAID VISA CLASSIC
+Country: UNITEDSTATES - 840
+Took: 10.7s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 5445446846354873|03|2025|620
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: Sunrise Banks  National Association
+Category: RETAIL
+Type: PREPAID MASTERCARD PREPAID CONSUMER INCENTIVE
+Country: UNITEDSTATES - 840
+Took: 8.04s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4726430006028215|03|2025|986
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: HDFC Bank
+Category: CORPORATE
+Type: PREPAID VISA CORPORATE T&E
+Country: INDIA - 356
+Took: 9.01s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4403932217954170|03|2025|910
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: SUTTON BANK
+Category: RETAIL
+Type: PREPAID VISA CLASSIC
+Country: UNITEDSTATES - 840
+Took: 7.38s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4332520008740514|03|2025|091
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: FREEDOM BANK
+Category: RETAIL
+Type: DEBIT CLASSIC
+Country: UNITEDSTATES - 840
+Took: 8.03s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4147788573533672|03|2025|042
+Status: Approved ✅
+Response: AVS Error (Your postal code did not match.)
+Gateway: Braintree Auth - 1
+Bank: U.S. BANK NATIONAL ASSOCIATION-CREDIT
+Category: RETAIL
+Type: CREDIT VISA TRADITIONAL
+Country: UNITEDSTATES - 840
+Took: 9.57s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4143980454997241|03|2025|060
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: GREEN DOT BANK DBA BONNEVILLE BANK
+Category: RETAIL
+Type: DEBIT VISA CLASSIC
+Country: UNITEDSTATES - 840
+Took: 8.56s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4100390577144310|03|2025|668
+Status: Approved ✅
+Response: AVS Error (Your postal code did not match.)
+Gateway: Braintree Auth - 1
+Bank: CITIBANK, N.A.- COSTCO
+Category: RETAIL
+Type: CREDIT VISA TRADITIONAL
+Country: UNITEDSTATES - 840
+Took: 10.6s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4232231012499938|03|2025|814
+Status: Approved ✅
+Response: AVS Error (Your postal code did not match.)
+Gateway: Braintree Auth - 1
+Bank: THE BANCORP BANK, NATIONAL ASSOCIATION
+Category: RETAIL
+Type: DEBIT VISA CLASSIC
+Country: UNITEDSTATES - 840
+Took: 9.91s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4100390498724596|03|2025|739
+Status: API Error ⚠️
+Response: Recheck
+Gateway: Braintree Auth - 1
+Bank: CITIBANK, N.A.- COSTCO
+Category: RETAIL
+Type: CREDIT VISA TRADITIONAL
+Country: UNITEDSTATES - 840
+Took: 7.69s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4100390156637387|03|2025|199
+Status: Approved ✅
+Response: AVS Error (Your postal code did not match.)
+Gateway: Braintree Auth - 1
+Bank: CITIBANK, N.A.- COSTCO
+Category: RETAIL
+Type: CREDIT VISA TRADITIONAL
+Country: UNITEDSTATES - 840
+Took: 11.6s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 5169893025305610|07|2033|408
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: Bank of India
+Category: RETAIL
+Type: PREPAID MASTERCARD PREPAID NON US GENERAL SPEND
+Country: INDIA - 356
+Took: 8.11s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 5169895548458321|07|2031|226
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: Bank of India
+Category: RETAIL
+Type: PREPAID MASTERCARD PREPAID NON US GENERAL SPEND
+Country: INDIA - 356
+Took: 9.10s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 5169898217511867|08|2028|852
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: Bank of India
+Category: RETAIL
+Type: PREPAID MASTERCARD PREPAID NON US GENERAL SPEND
+Country: INDIA - 356
+Took: 9.38s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 5169895745461813|05|2034|128
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: Bank of India
+Category: RETAIL
+Type: PREPAID MASTERCARD PREPAID NON US GENERAL SPEND
+Country: INDIA - 356
+Took: 8.52s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4031630476799431|12|2028|823
+Status: Approved ✅
+Response: AVS Error (Your postal code did not match.)
+Gateway: Braintree Auth - 1
+Bank: SUTTON BANK
+Category: RETAIL
+Type: PREPAID VISA CLASSIC
+Country: UNITEDSTATES - 840
+Took: 17.5s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4941490130665786|02|2026|255
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: SUTTON BANK
+Category: RETAIL
+Type: PREPAID VISA CLASSIC
+Country: UNITEDSTATES - 840
+Took: 7.84s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 5420321011323947|02|2027|465
+Status: Approved ✅
+Response: Card added
+Gateway: Braintree Auth - 1
+Bank: Scotiabank (Turks & Caicos) Ltd.
+Category: RETAIL
+Type: CREDIT PLATINUM
+Country: TURKS AND CAICOS ISLANDS - 796
+Took: 11.8s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 5250870196650206|02|2026|853
+Status: Approved ✅
+Response: Card added
+Gateway: Braintree Auth - 1
+Bank: UC CARD CO., LTD.
+Category: RETAIL
+Type: CREDIT 
+Country: JAPAN - 392
+Took: 24.9s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 5169890768912453|03|2025|273
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: Bank of India
+Category: RETAIL
+Type: PREPAID MASTERCARD PREPAID NON US GENERAL SPEND
+Country: INDIA - 356
+Took: 8.08s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 5169894807676749|07|2030|647
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: Bank of India
+Category: RETAIL
+Type: PREPAID MASTERCARD PREPAID NON US GENERAL SPEND
+Country: INDIA - 356
+Took: 8.28s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4169160852916858|05|2027|760
+Status: Approved ✅
+Response: Card added
+Gateway: Braintree Auth - 1
+Bank: BANCOPPEL S.A. INSTITUCION DE BANCA MULTIPLE
+Category: RETAIL
+Type: DEBIT ELECTRON
+Country: MEXICO - 484
+Took: 16.6s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4169160864574117|08|2027|561
+Status: Approved ✅
+Response: Card added
+Gateway: Braintree Auth - 1
+Bank: BANCOPPEL S.A. INSTITUCION DE BANCA MULTIPLE
+Category: RETAIL
+Type: DEBIT ELECTRON
+Country: MEXICO - 484
+Took: 16.3s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
+
+CC: 4152313743388212|05|2026|883
+Status: Approved ✅
+Response: Card added
+Gateway: Stripe
+Bank: BBVA MEXICO S.A.
+Category: RETAIL
+Type: DEBIT VISA CLASSIC
+Country: MEXICO - 484
+Took: 8.77s
+Checked by: ıllı GSMTEAM ıllı [2085082046]
